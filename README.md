@@ -49,6 +49,11 @@ This bot is used to ban or delete by detecting the language.
 
 Welcome to make this project even better. You can submit merge requests, or report issues.
 
+## Credit
+
+This is a fork (forked on 1/26/2021 PST) of the repo from scp-079 (https://github.com/scp-079) project.
+
+
 ## License
 
 Licensed under the terms of the [GNU General Public License v3](LICENSE).
